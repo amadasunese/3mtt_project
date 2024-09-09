@@ -8,7 +8,6 @@ data = {'Name': ['Ese Amadasun', 'Treasure Amadasun', 'Evans Amadasun', 'Vanessa
         }
 
 # Convert the dictionary to a dataframe
-
 converted_df = pd.DataFrame(data)
 
 # Display the dataframe
